@@ -1,7 +1,7 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 ## Demo
-#### Here is a working live demo :  https://react-crypto-tracks.netlify.app/
+#### Here is a working live demo :  https://crypto-tracker-zn8l.onrender.com
 
 ## Built with 
 
