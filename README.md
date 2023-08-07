@@ -9,6 +9,6 @@
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
-## Made By ♥ [Bajuddin Khan]
+## Made By [MO Tausif]
 
-MIT © [Bajuddin Khan ](https://github.com/bajuddin15)
+MIT © [Mo Tausif ](https://github.com/tausifansari0)
